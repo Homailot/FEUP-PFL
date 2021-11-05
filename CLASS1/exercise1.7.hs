@@ -1,0 +1,7 @@
+--- 1.7
+--- [Char]
+--- (Char, Char, Char)
+--- [(Bool, Char)]
+--- ([Bool], [Char])
+--- [[a] -> [a]]
+--- [Bool -> Bool]
